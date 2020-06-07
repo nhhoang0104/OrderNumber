@@ -1,0 +1,2 @@
+Trò chơi giúp học sinh tiểu học trong môn toán học. Cụ thể nội dung trong trò chơi này là sắp xếp các số từ 1 - 9 theo thứ tự bé đến lớn (hoặc từ lớn đến bé).
+Trò chơi sử dụng ngôn ngữ JavaScript, HTML, CSS, và framework Phaser. Hình ảnh được thiết kế bằng Figma.
